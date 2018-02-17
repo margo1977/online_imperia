@@ -1,0 +1,48 @@
+#msg-box5-5 .mbr-header__text {
+  color: #b8312f;
+  text-align: left;
+  font-size: 30px;
+}
+#msg-box5-5 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-5 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-5 .mbr-article P {
+  text-align: center;
+  font-size: 20px;
+  color: #ffffff;
+}
+#msg-box5-5 .btn {
+  font-size: 24px;
+}
+#msg-box3-a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #faaf40;
+}
+#msg-box3-a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-a .mbr-article P {
+  text-align: center;
+  color: #000000;
+}
+#header3-e H3 {
+  text-align: center;
+  color: #b8312f;
+  font-size: 32px;
+}
+#pricing-table1-b DIV {
+  color: #333333;
+  text-align: center;
+}
+#pricing-table1-b H3 {
+  color: #333333;
+}
+#pricing-table1-b UL {
+  text-align: center;
+}
+#pricing-table1-b P {
+  text-align: center;
+}

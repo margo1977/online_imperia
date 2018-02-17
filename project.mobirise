@@ -1,0 +1,260 @@
+{
+  "settings": {
+    "name": "Онлайн Империя 3.0",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#333333",
+        "#777777"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 15,
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#b8312f",
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=eGjRPU52n60",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "ОНЛАЙН ИМПЕРИЯ 3.0",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Чтобы узнать стоимость и варианты участия в квесте, перейдите по ссылке!</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>УЗНАТЬ ПОДРОБНОСТИ</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#faaf40"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Курс \"Стратегия продвижения в интернете для МЛМ\"",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Заберите в подарок курс по продвижению в интернете, стоимостью 3500 руб. </p><p><b>Для Вас БЕСПЛАТНО! </b></p><p>Чтобы получить подарочный код, перейдите по ссылке!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://manychat.com/l2/YaMargaritaZhukova\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Получить подарок</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "60-ти дневный тренинг-квест по созданию системы рекрутинга в интернете.",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#b8312f",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "text": "<p><b>Содержание:</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p><b>1 блок</b></p><p>Понимание сути продвижения в интернете, для осознанного построения стратегии продвижения.\n</p><p>\n</p><p>Планирование достижений на год. Это даст картину будующего и не будет разочарований от несбывшихся надежд.\n</p><p>\n</p><p>Как найти целевую аудиторию. В результате вы обращаетесь только к заинтересованным людям.\n</p><p>\n</p><p><b>\n2 блок</b>&nbsp;</p><p>\n</p><p>Продвижение в социальных сетях. Оформление профилей и сообществ. \n</p><p>\n</p><p>Освоение рекламных возможностей.\n</p><p>\n</p><p>В результате ваши социальные сети работают на ваш бизнес и являются магнитом для потенциальных кандидатов и клиентов. Вы создадите свою визитную карточку в интернете, которая работает на ваш бизнес.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>3 блок</b>.\n</p><p>\n</p><p>Использование телеграм для бизнеса.\n</p><p>\n</p><p>В результате при помощи телеграм у вас новый источник клиентов и партнеров, плюс удешевление продвижения.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>4 блок.\n</b></p><p>\n</p><p>Видеомаркетинг. Какие видео и как снимать для вовлечения кандидатов в бизнес.\n</p><p>\n</p><p>В результате новый источник клиентов и партнеров с использованием видео.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>5 блок\n</b></p><p>\n</p><p>Прямые трансляции.\n</p><p>\n</p><p>Это самый лучший способ найти общий язык и утеплить отношения с вашими подписчиками и сделать их кандидатами в бизнес или клиентами.\n</p><p>\n</p><p>В результате вы научитесь проводить прямые трансляции и увеличите аудиторию своих социальных сетей.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>6 блок.\n</b></p><p>\n</p><p>\n</p><p>\n</p><p>Создание воронки в чат-боте в Фейсбук.\n</p><p>\n</p><p>В результате вы получаете каждый день заявки от заинтересованных кандидатов в бизнес или клиентов.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>7 блок.\n</b></p><p>\n</p><p>Как проводить рекрутинговые встречи в интернете.\n</p><p>\n</p><p>Вы получаете скрипты продаж и научитесь закрывать сделки проводя консультации.\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>8 блок.\n</b></p><p>\n</p><p>Необходимые сервисы для работы в интернете.\n</p><p>\n</p><p>В результате все под рукой, все необходимое. Экономия времени и денег.\n</p><p>\n</p><p>\n</p><p>\n</p><p>В каждом блоке по несколько занятий, в зависимости от темы.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d"
+        },
+        {
+          "_params": {
+            "firstType": "hidden",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "СТАНДАРТ",
+          "currency1": "",
+          "price1": "6590&nbsp;",
+          "period1": "рублей",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title2": "СТАНДАРТ",
+          "currency2": "",
+          "price2": "6590",
+          "period2": "рублей",
+          "list2": "<p><b>1. Доступ к видео урокам.\n</b></p><p><b>\n2.&nbsp;</b><b>Участие в рейтинге&nbsp;</b></p><p><b>\n3.</b><b>Без обратной связи и без проверки домашних заданий.</b></p><p></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://tatyanaandreeva.autoweboffice.ru/?r=af&amp;p=627&amp;g=253&amp;order=true&amp;lg=ru\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a> ",
+          "title3": "ПРЕМИУМ",
+          "currency3": "",
+          "price3": "15900",
+          "period3": "рублей",
+          "list3": "<ul><li><b>1. Доступ к видео урокам.\n</b></li><li><b>\n</b></li><li><b>2. Участие в рейтинге.\n</b></li><li><b>\n</b></li><li><b>3. Проверка домашнего задания личным менеджером.\n</b></li><li><b>\n</b></li><li><b>4. Участие в брифинге вопрос-ответ 2 раза</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://tatyanaandreeva.autoweboffice.ru/?r=af&amp;p=627&amp;g=254&amp;order=true&amp;lg=ru\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
+          "title4": "ВИП",
+          "currency4": "",
+          "price4": "26900",
+          "period4": "рублей",
+          "list4": "<ul><li><b>1. Доступ к видео урокам.\r</b></li><li><b>2. Участие в рейтинге.\r</b></li><li><b>3. Проверка домашнего задания лично Татьяной Андреевой.\r</b></li><li><b>4. Участие в брифинге вопрос-ответ 2 раза\r</b></li><li><b>\r5.&nbsp;</b><b>Участие в групповой консультации по окончании квеста, для подведения итогов и проработке дальнейших шагов продвижения.</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://tatyanaandreeva.autoweboffice.ru/?r=af&amp;p=627&amp;g=255&amp;order=true&amp;lg=ru\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-b",
+          "_styles": {
+            "DIV": {
+              "color": "#333333",
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#333333"
+            },
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
